@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 988362bcccc6f5e40a5f6b1407ae95d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - machineSlotScript: {instanceID: 0}
+  - slot0: {fileID: -4120399330518263098, guid: 2570e47608eae6845ad04c500425aa9d,
+      type: 3}
+  - slot1: {fileID: 3973670117115425906, guid: 2570e47608eae6845ad04c500425aa9d, type: 3}
+  - slot2: {fileID: -7085861625263896070, guid: 2570e47608eae6845ad04c500425aa9d,
+      type: 3}
+  - slot3: {fileID: 6109788423898166172, guid: 2570e47608eae6845ad04c500425aa9d, type: 3}
+  - slot4: {fileID: 8382754832659277255, guid: 2570e47608eae6845ad04c500425aa9d, type: 3}
+  - slot5: {fileID: -6730014451677668174, guid: 2570e47608eae6845ad04c500425aa9d,
+      type: 3}
+  - slot6: {fileID: 1687087217237656079, guid: 2570e47608eae6845ad04c500425aa9d, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  - slotSpinSFX: {fileID: 8300000, guid: 769c211e8511ca3439423df6196aaabc, type: 3}
+  - slotStopSFX: {fileID: 8300000, guid: 4f68291178b304b48b2247fc52b6df2e, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
